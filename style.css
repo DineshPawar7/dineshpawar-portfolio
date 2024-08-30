@@ -261,7 +261,7 @@ p {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 .project-item img {
